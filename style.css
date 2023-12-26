@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    background-image: url(1.avif);
+    background-size: cover;
+}
+.button {
+
+    height: 60px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 80px;
+    background-color: black;
+    border: 1px solid #b30e0e;
+    font-size: 2rem;
+    color: white;
+
+}
+
+.button:hover {
+
+    background-color: red;
+
+}
+
+.operator {
+    height: 60px;
+    border-radius: 3px;
+    padding: 5px;
+    width: 80px;
+    font-size: 2rem;
+    color: black;
+
+    background-color: orange;
+
+}
+
+.clear {
+
+    background-color: #f0595f;
+
+    border-color: #b0353a;
+    color: #fff;
+    width: 80px;
+    height: 50px;  
+
+}
+
+.clear:hover {
+
+    background-color: rgb(110, 49, 49);
+
+}
+.operator:hover {
+
+    background-color: rgb(238, 205, 21);
+    color: white;
+
+}
+
+.equal-sign {
+
+    background-color: #25a8e0;
+
+    border-color: #25a8e0;
+
+    color: #fff;
+
+}
+
+.equal-sign:hover {
+
+    background-color: #4e9ed4;
+
+}
+
+.screen{
+
+    background-color:black;
+
+    color: white;
+
+    font-size: 25px;
+
+    width: 240px;
+   
+    height: 40px;
+
+    margin-bottom: 10px;
+
+}
